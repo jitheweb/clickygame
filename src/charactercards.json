@@ -1,0 +1,61 @@
+[{
+        "id": 1,
+        "image": "./assets/images/Abe.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./assets/images/Allison.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./assets/images/Apu.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./assets/images/Bart.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "./assets/images/Edna.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "./assets/images/Homer.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "./assets/images/Lisa.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "./assets/images/Marge.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "./assets/images/Milhouse.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "./assets/images/Moe.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "./assets/images/Mr_Burns.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "./assets/images/Ned_Flanders.png",
+        "clicked": false
+    }
+]
